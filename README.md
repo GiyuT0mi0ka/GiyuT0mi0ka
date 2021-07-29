@@ -1,8 +1,8 @@
 ## Olá seja bem vindo ao meu perfil, faça bom proveito
  <div>
   <a href="https://github.com/GiyuT0mi0ka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiyuT0mi0ka&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiyuT0mi0ka&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiyuT0mi0ka&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiyuT0mi0ka&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
